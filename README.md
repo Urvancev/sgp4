@@ -1,3 +1,7 @@
+It's fork from https://github.com/dnwrnr/sgp4
+
+I prepare this sourse code for compile with VS 2017
+
 SGP4 library
 ============
 
