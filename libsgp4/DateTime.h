@@ -25,6 +25,7 @@
 #include <cassert>
 #include "TimeSpan.h"
 #include "Util.h"
+#include <algorithm>
 
 namespace
 {
